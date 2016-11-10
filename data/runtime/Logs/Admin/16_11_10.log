@@ -1,0 +1,9 @@
+[ 2016-11-10T08:06:52+08:00 ] ::1 /index.php?g=admin&m=menu&a=index
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+
+[ 2016-11-10T08:06:54+08:00 ] ::1 /index.php?g=Admin&m=menu&a=add
+NOTIC: D方法实例化没找到模型类Common\Model\AuthRuleModel
+
+[ 2016-11-10T08:51:50+08:00 ] ::1 /index.php?g=Admin&m=route&a=index
+NOTIC: D方法实例化没找到模型类Common\Model\RouteModel
+
